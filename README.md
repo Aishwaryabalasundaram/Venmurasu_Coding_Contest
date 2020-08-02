@@ -6,25 +6,25 @@ Programming Language :  Python
 
 # Libraries needed to install:
 
-tkinter          -   for interactive GUI;
+tkinter          -   for interactive GUI
 
-PIL              -   for background images and icons;
+PIL              -   for background images and icons
 
-datetime         -   used in GUI;
+datetime         -   used in GUI
 
-Open-Tamil       -   for processing Tamil Words;
+Open-Tamil       -   for processing Tamil Words
 
-gtts             -   google text to speech (for pronouncing tamil words);
+gtts             -   google text to speech (for pronouncing tamil words)
 
-playsound        -   for playing audio file;
+playsound        -   for playing audio file
 
-BeautifulSoup    -   for scraping websites;
+BeautifulSoup    -   for scraping websites
 
-ssl              -   for secure connection;
+ssl              -   for secure connection
 
-urllib           -   for sending requests;
+urllib           -   for sending requests
 
-timeit           -   for timer;
+timeit           -   for timer
 
 
 # Running the code:
