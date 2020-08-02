@@ -6,16 +6,16 @@ Programming Language :  Python
 
 # Libraries needed to install:
 
-tkinter          -   for interactive GUI
-PIL              -   for background images and icons
-datetime         -   used in GUI
-Open-Tamil       -   for processing Tamil Words
-gtts             -   google text to speech (for pronouncing tamil words)
-playsound        -   for playing audio file
-BeautifulSoup    -   for scraping websites
-ssl              -   for secure connection
-urllib           -   for sending requests
-timeit           -   for timer
+tkinter          -   for interactive GUI;
+PIL              -   for background images and icons;
+datetime         -   used in GUI;
+Open-Tamil       -   for processing Tamil Words;
+gtts             -   google text to speech (for pronouncing tamil words);
+playsound        -   for playing audio file;
+BeautifulSoup    -   for scraping websites;
+ssl              -   for secure connection;
+urllib           -   for sending requests;
+timeit           -   for timer;
 
 
 # Running the code:
@@ -53,15 +53,12 @@ There are totally five python files which are uploaded.
  
 
 
-Contributors:
+# Contributors:
 
 1. Thamil Vani .S (CSE) 
 2. Aishwarya Lakshmi .B (IT)
 3. Narmatha .R (CSE)
 
-License:
+# License:
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-
-
